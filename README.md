@@ -29,7 +29,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://bluedevil605.github.io/Social-link/)
+- Live Site URL: [live site](https://bluedevil605.github.io/Social-link/)
 
 ## My process
 
